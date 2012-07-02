@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns	= "http://www.w3.org/ns/widgets"
+	xmlns:gap	= "http://phonegap.com/ns/1.0"
+	id		    = "com.ram.vmoksha.ddlst"
+	version 	= "1.0">
+
+	<name>DDL_ST_V3</name>	
+
+	<description>
+        	Deenst Desk Lite Mobile Application for Help Desk end users.
+	</description>
+
+	<author href="https://github.com/yrkapil" email="yrkapil@gmail.com">
+		Ram Kapil Y
+	</author>
+
+    <icon src="imgs/ddl.png" width="57" height="57" />
+
+	<feature name="http://api.phonegap.com/1.0/network"/>
+    
+    <gap:splash src="imgs/splash.png" />
+
+    <preference name="orientation" value="portrait" />
+    <preference name="phonegap-version" value="1.6.1" />
+
+</widget>
